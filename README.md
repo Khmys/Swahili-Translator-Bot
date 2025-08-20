@@ -2,6 +2,9 @@
 
 Bot ya Telegram inayotafsiri maandishi, picha, na video kwenda Kiswahili kwa kutumia Deep Translator.
 
+## polling 
+- Branch ya Jalibu inatumia polling na siyo Webhook
+  
 ## 📌 Vipengele
 - Tafsiri ya maandishi ya moja kwa moja
 - Tafsiri ya caption kwenye picha, video, na animation
